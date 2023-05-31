@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="tab_weather">Weather</string>
+    <string name="tab_history">History</string>
+    <string name="toast_load_failure">Failed to load data!</string>
+    <string name="display_degrees_celsius">%1$.0f °C</string>
+    <string name="display_city_country">%1$s, %2$s</string>
+</resources>

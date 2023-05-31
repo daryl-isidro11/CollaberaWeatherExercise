@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Insert OpenWeather API key here -->
+    <string name="api_key">REPLACE_WITH_API_KEY</string>
+    <!-- OpenWeather API URL -->
+    <string name="weather_api_url">https://api.openweathermap.org/data/2.5/weather?lat=%1$.4f&amp;lon=%2$.4f&amp;appid=%3$s&amp;units=metric</string>
+</resources>

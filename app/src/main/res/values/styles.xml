@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CityTextStyle" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+
+    <style name="CountryTextStyle" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TempTextStyle" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">64sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>
